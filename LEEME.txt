@@ -1,3 +1,2 @@
-POLARIS X Inventarios 1.1
-Abrir carpeta en VS Code y ejecutar python -m http.server 8000. Abrir http://localhost:8000. Para instalar en celulares publicar por HTTPS.
-Configuración: editar/agregar/eliminar productos con inventario abierto vacío. Merma se captura separada, con tarimas, cajas y piezas. Duplicados permitidos. Excel conserva B:M y agrega N:O. K incluye piezas de merma. Litros y toneladas usan factor por unidad. Histórico local, exportar respaldos.
+POLARIS X Inventarios V1.2
+Subir todos los archivos a la raíz del repositorio existente. Conserva la clave local polaris-v1. Exportar respaldo antes de actualizar. Tema oscuro predeterminado; selector en Configuración.
