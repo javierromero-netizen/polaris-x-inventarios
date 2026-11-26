@@ -2,3 +2,5 @@ POLARIS X Inventarios V1.3
 Subir todos los archivos a la raíz del repositorio existente. Conserva la clave local polaris-v1. Exportar respaldo antes de actualizar. Tema oscuro predeterminado; selector en Configuración.
 
 Histórico: reabrir, guardar cambios y cerrar; cancelar reapertura conserva original. Seleccionar y eliminar históricos.
+
+V1.4.1: controles históricos explícitos y caché versionada.
